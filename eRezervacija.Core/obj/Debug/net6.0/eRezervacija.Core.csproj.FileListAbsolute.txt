@@ -1,0 +1,14 @@
+D:\Senad\RS SEMINARSKI\webapp\eRezervacija\eRezervacija.Core\bin\Debug\net6.0\eRezervacija.Core.deps.json
+D:\Senad\RS SEMINARSKI\webapp\eRezervacija\eRezervacija.Core\bin\Debug\net6.0\eRezervacija.Core.runtimeconfig.json
+D:\Senad\RS SEMINARSKI\webapp\eRezervacija\eRezervacija.Core\bin\Debug\net6.0\eRezervacija.Core.dll
+D:\Senad\RS SEMINARSKI\webapp\eRezervacija\eRezervacija.Core\bin\Debug\net6.0\eRezervacija.Core.pdb
+D:\Senad\RS SEMINARSKI\webapp\eRezervacija\eRezervacija.Core\obj\Debug\net6.0\eRezervacija.Core.csproj.AssemblyReference.cache
+D:\Senad\RS SEMINARSKI\webapp\eRezervacija\eRezervacija.Core\obj\Debug\net6.0\eRezervacija.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Senad\RS SEMINARSKI\webapp\eRezervacija\eRezervacija.Core\obj\Debug\net6.0\eRezervacija.Core.AssemblyInfoInputs.cache
+D:\Senad\RS SEMINARSKI\webapp\eRezervacija\eRezervacija.Core\obj\Debug\net6.0\eRezervacija.Core.AssemblyInfo.cs
+D:\Senad\RS SEMINARSKI\webapp\eRezervacija\eRezervacija.Core\obj\Debug\net6.0\eRezervacija.Core.csproj.CoreCompileInputs.cache
+D:\Senad\RS SEMINARSKI\webapp\eRezervacija\eRezervacija.Core\obj\Debug\net6.0\eRezervacija.Core.dll
+D:\Senad\RS SEMINARSKI\webapp\eRezervacija\eRezervacija.Core\obj\Debug\net6.0\refint\eRezervacija.Core.dll
+D:\Senad\RS SEMINARSKI\webapp\eRezervacija\eRezervacija.Core\obj\Debug\net6.0\eRezervacija.Core.pdb
+D:\Senad\RS SEMINARSKI\webapp\eRezervacija\eRezervacija.Core\obj\Debug\net6.0\eRezervacija.Core.genruntimeconfig.cache
+D:\Senad\RS SEMINARSKI\webapp\eRezervacija\eRezervacija.Core\obj\Debug\net6.0\ref\eRezervacija.Core.dll

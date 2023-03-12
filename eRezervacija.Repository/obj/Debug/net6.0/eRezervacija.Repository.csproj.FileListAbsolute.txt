@@ -1,0 +1,17 @@
+D:\Senad\RS SEMINARSKI\webapp\eRezervacija\eRezervacija.Repository\bin\Debug\net6.0\eRezervacija.Repository.deps.json
+D:\Senad\RS SEMINARSKI\webapp\eRezervacija\eRezervacija.Repository\bin\Debug\net6.0\eRezervacija.Repository.runtimeconfig.json
+D:\Senad\RS SEMINARSKI\webapp\eRezervacija\eRezervacija.Repository\bin\Debug\net6.0\eRezervacija.Repository.dll
+D:\Senad\RS SEMINARSKI\webapp\eRezervacija\eRezervacija.Repository\bin\Debug\net6.0\eRezervacija.Repository.pdb
+D:\Senad\RS SEMINARSKI\webapp\eRezervacija\eRezervacija.Repository\bin\Debug\net6.0\eRezervacija.Core.dll
+D:\Senad\RS SEMINARSKI\webapp\eRezervacija\eRezervacija.Repository\bin\Debug\net6.0\eRezervacija.Core.pdb
+D:\Senad\RS SEMINARSKI\webapp\eRezervacija\eRezervacija.Repository\obj\Debug\net6.0\eRezervacija.Repository.csproj.AssemblyReference.cache
+D:\Senad\RS SEMINARSKI\webapp\eRezervacija\eRezervacija.Repository\obj\Debug\net6.0\eRezervacija.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Senad\RS SEMINARSKI\webapp\eRezervacija\eRezervacija.Repository\obj\Debug\net6.0\eRezervacija.Repository.AssemblyInfoInputs.cache
+D:\Senad\RS SEMINARSKI\webapp\eRezervacija\eRezervacija.Repository\obj\Debug\net6.0\eRezervacija.Repository.AssemblyInfo.cs
+D:\Senad\RS SEMINARSKI\webapp\eRezervacija\eRezervacija.Repository\obj\Debug\net6.0\eRezervacija.Repository.csproj.CoreCompileInputs.cache
+D:\Senad\RS SEMINARSKI\webapp\eRezervacija\eRezervacija.Repository\obj\Debug\net6.0\eRezervacija.Repository.csproj.CopyComplete
+D:\Senad\RS SEMINARSKI\webapp\eRezervacija\eRezervacija.Repository\obj\Debug\net6.0\eRezervacija.Repository.dll
+D:\Senad\RS SEMINARSKI\webapp\eRezervacija\eRezervacija.Repository\obj\Debug\net6.0\refint\eRezervacija.Repository.dll
+D:\Senad\RS SEMINARSKI\webapp\eRezervacija\eRezervacija.Repository\obj\Debug\net6.0\eRezervacija.Repository.pdb
+D:\Senad\RS SEMINARSKI\webapp\eRezervacija\eRezervacija.Repository\obj\Debug\net6.0\eRezervacija.Repository.genruntimeconfig.cache
+D:\Senad\RS SEMINARSKI\webapp\eRezervacija\eRezervacija.Repository\obj\Debug\net6.0\ref\eRezervacija.Repository.dll

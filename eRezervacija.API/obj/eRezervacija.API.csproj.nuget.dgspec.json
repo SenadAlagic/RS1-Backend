@@ -1,0 +1,353 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Senad\\RS SEMINARSKI\\webapp\\eRezervacija\\eRezervacija.API\\eRezervacija.API.csproj": {}
+  },
+  "projects": {
+    "D:\\Senad\\RS SEMINARSKI\\webapp\\eRezervacija\\eRezervacija.API\\eRezervacija.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Senad\\RS SEMINARSKI\\webapp\\eRezervacija\\eRezervacija.API\\eRezervacija.API.csproj",
+        "projectName": "eRezervacija.API",
+        "projectPath": "D:\\Senad\\RS SEMINARSKI\\webapp\\eRezervacija\\eRezervacija.API\\eRezervacija.API.csproj",
+        "packagesPath": "C:\\Users\\senad\\.nuget\\packages\\",
+        "outputPath": "D:\\Senad\\RS SEMINARSKI\\webapp\\eRezervacija\\eRezervacija.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\senad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Senad\\RS SEMINARSKI\\webapp\\eRezervacija\\eRezervacija.Repository\\eRezervacija.Repository.csproj": {
+                "projectPath": "D:\\Senad\\RS SEMINARSKI\\webapp\\eRezervacija\\eRezervacija.Repository\\eRezervacija.Repository.csproj"
+              },
+              "D:\\Senad\\RS SEMINARSKI\\webapp\\eRezervacija\\eRezervacija.Service\\eRezervacija.Service.csproj": {
+                "projectPath": "D:\\Senad\\RS SEMINARSKI\\webapp\\eRezervacija\\eRezervacija.Service\\eRezervacija.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Senad\\RS SEMINARSKI\\webapp\\eRezervacija\\eRezervacija.Core\\eRezervacija.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Senad\\RS SEMINARSKI\\webapp\\eRezervacija\\eRezervacija.Core\\eRezervacija.Core.csproj",
+        "projectName": "eRezervacija.Core",
+        "projectPath": "D:\\Senad\\RS SEMINARSKI\\webapp\\eRezervacija\\eRezervacija.Core\\eRezervacija.Core.csproj",
+        "packagesPath": "C:\\Users\\senad\\.nuget\\packages\\",
+        "outputPath": "D:\\Senad\\RS SEMINARSKI\\webapp\\eRezervacija\\eRezervacija.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\senad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Senad\\RS SEMINARSKI\\webapp\\eRezervacija\\eRezervacija.Repository\\eRezervacija.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Senad\\RS SEMINARSKI\\webapp\\eRezervacija\\eRezervacija.Repository\\eRezervacija.Repository.csproj",
+        "projectName": "eRezervacija.Repository",
+        "projectPath": "D:\\Senad\\RS SEMINARSKI\\webapp\\eRezervacija\\eRezervacija.Repository\\eRezervacija.Repository.csproj",
+        "packagesPath": "C:\\Users\\senad\\.nuget\\packages\\",
+        "outputPath": "D:\\Senad\\RS SEMINARSKI\\webapp\\eRezervacija\\eRezervacija.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\senad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Senad\\RS SEMINARSKI\\webapp\\eRezervacija\\eRezervacija.Core\\eRezervacija.Core.csproj": {
+                "projectPath": "D:\\Senad\\RS SEMINARSKI\\webapp\\eRezervacija\\eRezervacija.Core\\eRezervacija.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Senad\\RS SEMINARSKI\\webapp\\eRezervacija\\eRezervacija.Service\\eRezervacija.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Senad\\RS SEMINARSKI\\webapp\\eRezervacija\\eRezervacija.Service\\eRezervacija.Service.csproj",
+        "projectName": "eRezervacija.Service",
+        "projectPath": "D:\\Senad\\RS SEMINARSKI\\webapp\\eRezervacija\\eRezervacija.Service\\eRezervacija.Service.csproj",
+        "packagesPath": "C:\\Users\\senad\\.nuget\\packages\\",
+        "outputPath": "D:\\Senad\\RS SEMINARSKI\\webapp\\eRezervacija\\eRezervacija.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\senad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Senad\\RS SEMINARSKI\\webapp\\eRezervacija\\eRezervacija.Core\\eRezervacija.Core.csproj": {
+                "projectPath": "D:\\Senad\\RS SEMINARSKI\\webapp\\eRezervacija\\eRezervacija.Core\\eRezervacija.Core.csproj"
+              },
+              "D:\\Senad\\RS SEMINARSKI\\webapp\\eRezervacija\\eRezervacija.Repository\\eRezervacija.Repository.csproj": {
+                "projectPath": "D:\\Senad\\RS SEMINARSKI\\webapp\\eRezervacija\\eRezervacija.Repository\\eRezervacija.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
